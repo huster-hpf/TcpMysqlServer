@@ -1,0 +1,432 @@
+[
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/AsyncLogging.cc.o -c /root/HttpMysqlServer/muduo/base/AsyncLogging.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/AsyncLogging.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/Condition.cc.o -c /root/HttpMysqlServer/muduo/base/Condition.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/Condition.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/CountDownLatch.cc.o -c /root/HttpMysqlServer/muduo/base/CountDownLatch.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/CountDownLatch.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/CurrentThread.cc.o -c /root/HttpMysqlServer/muduo/base/CurrentThread.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/CurrentThread.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/Date.cc.o -c /root/HttpMysqlServer/muduo/base/Date.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/Date.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/Exception.cc.o -c /root/HttpMysqlServer/muduo/base/Exception.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/Exception.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/FileUtil.cc.o -c /root/HttpMysqlServer/muduo/base/FileUtil.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/FileUtil.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/LogFile.cc.o -c /root/HttpMysqlServer/muduo/base/LogFile.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/LogFile.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/Logging.cc.o -c /root/HttpMysqlServer/muduo/base/Logging.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/Logging.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/LogStream.cc.o -c /root/HttpMysqlServer/muduo/base/LogStream.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/LogStream.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/ProcessInfo.cc.o -c /root/HttpMysqlServer/muduo/base/ProcessInfo.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/ProcessInfo.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/Timestamp.cc.o -c /root/HttpMysqlServer/muduo/base/Timestamp.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/Timestamp.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/TimeZone.cc.o -c /root/HttpMysqlServer/muduo/base/TimeZone.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/TimeZone.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/Thread.cc.o -c /root/HttpMysqlServer/muduo/base/Thread.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/Thread.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_base.dir/ThreadPool.cc.o -c /root/HttpMysqlServer/muduo/base/ThreadPool.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/ThreadPool.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/timezone_unittest.dir/TimeZone_unittest.cc.o -c /root/HttpMysqlServer/muduo/base/tests/TimeZone_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/TimeZone_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/processinfo_test.dir/ProcessInfo_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/ProcessInfo_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/ProcessInfo_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/date_unittest.dir/Date_unittest.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Date_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Date_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/boundedblockingqueue_test.dir/BoundedBlockingQueue_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/BoundedBlockingQueue_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/BoundedBlockingQueue_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/timestamp_unittest.dir/Timestamp_unittest.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Timestamp_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Timestamp_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/fileutil_test.dir/FileUtil_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/FileUtil_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/FileUtil_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/threadlocal_test.dir/ThreadLocal_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/ThreadLocal_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/ThreadLocal_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/threadlocalsingleton_test.dir/ThreadLocalSingleton_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/ThreadLocalSingleton_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/ThreadLocalSingleton_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/exception_test.dir/Exception_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Exception_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Exception_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/blockingqueue_test.dir/BlockingQueue_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/BlockingQueue_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/BlockingQueue_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/thread_test.dir/Thread_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Thread_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Thread_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/blockingqueue_bench.dir/BlockingQueue_bench.cc.o -c /root/HttpMysqlServer/muduo/base/tests/BlockingQueue_bench.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/BlockingQueue_bench.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/atomic_unittest.dir/Atomic_unittest.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Atomic_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Atomic_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/mutex_test.dir/Mutex_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Mutex_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Mutex_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/asynclogging_test.dir/AsyncLogging_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/AsyncLogging_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/AsyncLogging_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/logfile_test.dir/LogFile_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/LogFile_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/LogFile_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/logging_test.dir/Logging_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Logging_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Logging_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/logstream_bench.dir/LogStream_bench.cc.o -c /root/HttpMysqlServer/muduo/base/tests/LogStream_bench.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/LogStream_bench.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/singleton_test.dir/Singleton_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Singleton_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Singleton_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/logstream_test.dir/LogStream_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/LogStream_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/LogStream_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/fork_test.dir/Fork_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Fork_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Fork_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/singleton_threadlocal_test.dir/SingletonThreadLocal_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/SingletonThreadLocal_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/SingletonThreadLocal_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/thread_bench.dir/Thread_bench.cc.o -c /root/HttpMysqlServer/muduo/base/tests/Thread_bench.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/Thread_bench.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/base/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/threadpool_test.dir/ThreadPool_test.cc.o -c /root/HttpMysqlServer/muduo/base/tests/ThreadPool_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/base/tests/ThreadPool_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/Acceptor.cc.o -c /root/HttpMysqlServer/muduo/net/Acceptor.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/Acceptor.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/Buffer.cc.o -c /root/HttpMysqlServer/muduo/net/Buffer.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/Buffer.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/Channel.cc.o -c /root/HttpMysqlServer/muduo/net/Channel.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/Channel.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/Connector.cc.o -c /root/HttpMysqlServer/muduo/net/Connector.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/Connector.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/EventLoop.cc.o -c /root/HttpMysqlServer/muduo/net/EventLoop.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/EventLoop.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/EventLoopThread.cc.o -c /root/HttpMysqlServer/muduo/net/EventLoopThread.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/EventLoopThread.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/EventLoopThreadPool.cc.o -c /root/HttpMysqlServer/muduo/net/EventLoopThreadPool.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/InetAddress.cc.o -c /root/HttpMysqlServer/muduo/net/InetAddress.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/InetAddress.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/Poller.cc.o -c /root/HttpMysqlServer/muduo/net/Poller.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/Poller.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/poller/DefaultPoller.cc.o -c /root/HttpMysqlServer/muduo/net/poller/DefaultPoller.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/poller/DefaultPoller.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/poller/EPollPoller.cc.o -c /root/HttpMysqlServer/muduo/net/poller/EPollPoller.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/poller/EPollPoller.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/poller/PollPoller.cc.o -c /root/HttpMysqlServer/muduo/net/poller/PollPoller.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/poller/PollPoller.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/Socket.cc.o -c /root/HttpMysqlServer/muduo/net/Socket.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/Socket.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/SocketsOps.cc.o -c /root/HttpMysqlServer/muduo/net/SocketsOps.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/SocketsOps.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/TcpClient.cc.o -c /root/HttpMysqlServer/muduo/net/TcpClient.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/TcpClient.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/TcpConnection.cc.o -c /root/HttpMysqlServer/muduo/net/TcpConnection.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/TcpConnection.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/TcpServer.cc.o -c /root/HttpMysqlServer/muduo/net/TcpServer.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/TcpServer.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/Timer.cc.o -c /root/HttpMysqlServer/muduo/net/Timer.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/Timer.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_net.dir/TimerQueue.cc.o -c /root/HttpMysqlServer/muduo/net/TimerQueue.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/TimerQueue.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/timerqueue_unittest.dir/TimerQueue_unittest.cc.o -c /root/HttpMysqlServer/muduo/net/tests/TimerQueue_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/TimerQueue_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/tcpclient_reg3.dir/TcpClient_reg3.cc.o -c /root/HttpMysqlServer/muduo/net/tests/TcpClient_reg3.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/TcpClient_reg3.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/channel_test.dir/Channel_test.cc.o -c /root/HttpMysqlServer/muduo/net/tests/Channel_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/Channel_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/echoclient_unittest.dir/EchoClient_unittest.cc.o -c /root/HttpMysqlServer/muduo/net/tests/EchoClient_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/EchoClient_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/buffer_unittest.dir/Buffer_unittest.cc.o -c /root/HttpMysqlServer/muduo/net/tests/Buffer_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/Buffer_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/eventloop_unittest.dir/EventLoop_unittest.cc.o -c /root/HttpMysqlServer/muduo/net/tests/EventLoop_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/EventLoop_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/tcpclient_reg1.dir/TcpClient_reg1.cc.o -c /root/HttpMysqlServer/muduo/net/tests/TcpClient_reg1.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/TcpClient_reg1.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/eventloopthread_unittest.dir/EventLoopThread_unittest.cc.o -c /root/HttpMysqlServer/muduo/net/tests/EventLoopThread_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/EventLoopThread_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/tcpclient_reg2.dir/TcpClient_reg2.cc.o -c /root/HttpMysqlServer/muduo/net/tests/TcpClient_reg2.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/TcpClient_reg2.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/eventloopthreadpool_unittest.dir/EventLoopThreadPool_unittest.cc.o -c /root/HttpMysqlServer/muduo/net/tests/EventLoopThreadPool_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/EventLoopThreadPool_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/echoserver_unittest.dir/EchoServer_unittest.cc.o -c /root/HttpMysqlServer/muduo/net/tests/EchoServer_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/EchoServer_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/tests",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/inetaddress_unittest.dir/InetAddress_unittest.cc.o -c /root/HttpMysqlServer/muduo/net/tests/InetAddress_unittest.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/tests/InetAddress_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/protobuf",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -Wno-error=shadow -o CMakeFiles/muduo_protobuf_codec.dir/ProtobufCodecLite.cc.o -c /root/HttpMysqlServer/muduo/net/protobuf/ProtobufCodecLite.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/protobuf/ProtobufCodecLite.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/protorpc",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer -I/root/build/release-cpp11  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -Wno-error=shadow -o CMakeFiles/muduo_protorpc.dir/RpcChannel.cc.o -c /root/HttpMysqlServer/muduo/net/protorpc/RpcChannel.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/protorpc/RpcChannel.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/protorpc",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer -I/root/build/release-cpp11  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -Wno-error=shadow -o CMakeFiles/muduo_protorpc.dir/RpcServer.cc.o -c /root/HttpMysqlServer/muduo/net/protorpc/RpcServer.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/protorpc/RpcServer.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/protorpc",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer -I/root/build/release-cpp11  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -Wno-error=shadow -o CMakeFiles/protobuf_rpc_wire_test.dir/RpcCodec_test.cc.o -c /root/HttpMysqlServer/muduo/net/protorpc/RpcCodec_test.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/protorpc/RpcCodec_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/protorpc",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer -I/root/build/release-cpp11  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -Wno-error=shadow -Wno-conversion -o CMakeFiles/muduo_protorpc_wire.dir/rpc.pb.cc.o -c /root/build/release-cpp11/muduo/net/protorpc/rpc.pb.cc",
+  "file": "/root/build/release-cpp11/muduo/net/protorpc/rpc.pb.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/muduo/net/protorpc",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer -I/root/build/release-cpp11  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -Wno-error=shadow -o CMakeFiles/muduo_protorpc_wire.dir/RpcCodec.cc.o -c /root/HttpMysqlServer/muduo/net/protorpc/RpcCodec.cc",
+  "file": "/root/HttpMysqlServer/muduo/net/protorpc/RpcCodec.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/httprequest_unittest.dir/tests/HttpRequest_unittest.cc.o -c /root/HttpMysqlServer/http/tests/HttpRequest_unittest.cc",
+  "file": "/root/HttpMysqlServer/http/tests/HttpRequest_unittest.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/httpserver_test.dir/tests/HttpServer_test.cc.o -c /root/HttpMysqlServer/http/tests/HttpServer_test.cc",
+  "file": "/root/HttpMysqlServer/http/tests/HttpServer_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_http.dir/HttpServer.cc.o -c /root/HttpMysqlServer/http/HttpServer.cc",
+  "file": "/root/HttpMysqlServer/http/HttpServer.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_http.dir/HttpResponse.cc.o -c /root/HttpMysqlServer/http/HttpResponse.cc",
+  "file": "/root/HttpMysqlServer/http/HttpResponse.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_http.dir/HttpContext.cc.o -c /root/HttpMysqlServer/http/HttpContext.cc",
+  "file": "/root/HttpMysqlServer/http/HttpContext.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http/inspect",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/inspector_test.dir/tests/Inspector_test.cc.o -c /root/HttpMysqlServer/http/inspect/tests/Inspector_test.cc",
+  "file": "/root/HttpMysqlServer/http/inspect/tests/Inspector_test.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http/inspect",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_inspect.dir/Inspector.cc.o -c /root/HttpMysqlServer/http/inspect/Inspector.cc",
+  "file": "/root/HttpMysqlServer/http/inspect/Inspector.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http/inspect",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_inspect.dir/PerformanceInspector.cc.o -c /root/HttpMysqlServer/http/inspect/PerformanceInspector.cc",
+  "file": "/root/HttpMysqlServer/http/inspect/PerformanceInspector.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http/inspect",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_inspect.dir/ProcessInspector.cc.o -c /root/HttpMysqlServer/http/inspect/ProcessInspector.cc",
+  "file": "/root/HttpMysqlServer/http/inspect/ProcessInspector.cc"
+},
+{
+  "directory": "/root/build/release-cpp11/http/inspect",
+  "command": "/usr/bin/c++    -I/root/HttpMysqlServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/muduo_inspect.dir/SystemInspector.cc.o -c /root/HttpMysqlServer/http/inspect/SystemInspector.cc",
+  "file": "/root/HttpMysqlServer/http/inspect/SystemInspector.cc"
+}
+]
