@@ -6,14 +6,14 @@
 
 // Author: Shuo Chen (chenshuo at chenshuo dot com)
 
-#include <muduo/net/TcpConnection.h>
+#include <src/muduo/net/TcpConnection.h>
 
-#include <muduo/base/Logging.h>
-#include <muduo/base/WeakCallback.h>
-#include <muduo/net/Channel.h>
-#include <muduo/net/EventLoop.h>
-#include <muduo/net/Socket.h>
-#include <muduo/net/SocketsOps.h>
+#include <src/muduo/base/Logging.h>
+#include <src/muduo/base/WeakCallback.h>
+#include <src/muduo/net/Channel.h>
+#include <src/muduo/net/EventLoop.h>
+#include <src/muduo/net/Socket.h>
+#include <src/muduo/net/SocketsOps.h>
 
 #include <errno.h>
 

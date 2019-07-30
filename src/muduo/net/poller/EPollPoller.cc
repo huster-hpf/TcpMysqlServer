@@ -6,10 +6,10 @@
 
 // Author: Shuo Chen (chenshuo at chenshuo dot com)
 
-#include <muduo/net/poller/EPollPoller.h>
+#include <src/muduo/net/poller/EPollPoller.h>
 
-#include <muduo/base/Logging.h>
-#include <muduo/net/Channel.h>
+#include <src/muduo/base/Logging.h>
+#include <src/muduo/net/Channel.h>
 
 #include <assert.h>
 #include <errno.h>

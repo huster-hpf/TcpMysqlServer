@@ -6,8 +6,8 @@
 #ifndef MUDUO_BASE_LOGGING_H
 #define MUDUO_BASE_LOGGING_H
 
-#include <muduo/base/LogStream.h>
-#include <muduo/base/Timestamp.h>
+#include <src/muduo/base/LogStream.h>
+#include <src/muduo/base/Timestamp.h>
 
 namespace muduo
 {
@@ -48,7 +48,7 @@ class Logger
     explicit SourceFile(const char* filename)
       : data_(filename)
     {
-      const char* slash = strrchr(filename, '/');
+      const char* slash = strrchr(filename, '/');       //查找指定字符串从右边开始的第一次出现的位置（ptr）
       if (slash)
       {
         data_ = slash + 1;
@@ -68,8 +68,8 @@ class Logger
 
   LogStream& stream() { return impl_.stream_; }
 
-  static LogLevel logLevel();
-  static void setLogLevel(LogLevel level);
+  static LogLevel logLevel();       //日子输出级别
+  static void setLogLevel(LogLevel level);      //设置日志输出级别
 
   typedef void (*OutputFunc)(const char* msg, int len);
   typedef void (*FlushFunc)();
@@ -79,7 +79,7 @@ class Logger
 
  private:
 
-class Impl
+class Impl      //输出工具类
 {
  public:
   typedef Logger::LogLevel LogLevel;
@@ -98,9 +98,9 @@ class Impl
 
 };
 
-extern Logger::LogLevel g_logLevel;
+extern Logger::LogLevel g_logLevel;     //日子级别
 
-inline Logger::LogLevel Logger::logLevel()
+inline Logger::LogLevel Logger::logLevel()      //返回日子级别
 {
   return g_logLevel;
 }

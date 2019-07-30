@@ -6,11 +6,11 @@
 
 // Author: Shuo Chen (chenshuo at chenshuo dot com)
 
-#include <muduo/net/SocketsOps.h>
+#include <src/muduo/net/SocketsOps.h>
 
-#include <muduo/base/Logging.h>
-#include <muduo/base/Types.h>
-#include <muduo/net/Endian.h>
+#include <src/muduo/base/Logging.h>
+#include <src/muduo/base/Types.h>
+#include <src/muduo/net/Endian.h>
 
 #include <errno.h>
 #include <fcntl.h>

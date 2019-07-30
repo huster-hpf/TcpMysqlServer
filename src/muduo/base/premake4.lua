@@ -4,7 +4,7 @@ project "base"
     links{'pthread', 'rt'}
     targetdir(libdir)
     targetname('muduo_base')
-    headersdir('muduo/base')
+    headersdir('src/muduo/base')
     headers('*.h')
     files {
             'AsyncLogging.cc',

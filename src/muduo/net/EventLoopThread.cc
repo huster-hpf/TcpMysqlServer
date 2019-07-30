@@ -6,9 +6,9 @@
 
 // Author: Shuo Chen (chenshuo at chenshuo dot com)
 
-#include <muduo/net/EventLoopThread.h>
+#include <src/muduo/net/EventLoopThread.h>
 
-#include <muduo/net/EventLoop.h>
+#include <src/muduo/net/EventLoop.h>
 
 using namespace muduo;
 using namespace muduo::net;

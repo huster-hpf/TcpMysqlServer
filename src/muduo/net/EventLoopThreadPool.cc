@@ -6,10 +6,10 @@
 
 // Author: Shuo Chen (chenshuo at chenshuo dot com)
 
-#include <muduo/net/EventLoopThreadPool.h>
+#include <src/muduo/net/EventLoopThreadPool.h>
 
-#include <muduo/net/EventLoop.h>
-#include <muduo/net/EventLoopThread.h>
+#include <src/muduo/net/EventLoop.h>
+#include <src/muduo/net/EventLoopThread.h>
 
 #include <stdio.h>
 

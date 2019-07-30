@@ -13,8 +13,8 @@
 
 #include <functional>
 
-#include <muduo/net/Channel.h>
-#include <muduo/net/Socket.h>
+#include <src/muduo/net/Channel.h>
+#include <src/muduo/net/Socket.h>
 
 namespace muduo
 {

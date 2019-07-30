@@ -11,11 +11,11 @@
 #ifndef MUDUO_NET_BUFFER_H
 #define MUDUO_NET_BUFFER_H
 
-#include <muduo/base/copyable.h>
-#include <muduo/base/StringPiece.h>
-#include <muduo/base/Types.h>
+#include <src/muduo/base/copyable.h>
+#include <src/muduo/base/StringPiece.h>
+#include <src/muduo/base/Types.h>
 
-#include <muduo/net/Endian.h>
+#include <src/muduo/net/Endian.h>
 
 #include <algorithm>
 #include <vector>

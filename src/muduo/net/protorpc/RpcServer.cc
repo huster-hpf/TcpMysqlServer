@@ -6,10 +6,10 @@
 
 // Author: Shuo Chen (chenshuo at chenshuo dot com)
 
-#include <muduo/net/protorpc/RpcServer.h>
+#include <src/muduo/net/protorpc/RpcServer.h>
 
-#include <muduo/base/Logging.h>
-#include <muduo/net/protorpc/RpcChannel.h>
+#include <src/muduo/base/Logging.h>
+#include <src/muduo/net/protorpc/RpcChannel.h>
 
 #include <google/protobuf/descriptor.h>
 #include <google/protobuf/service.h>

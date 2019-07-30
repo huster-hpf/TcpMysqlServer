@@ -6,13 +6,13 @@
 
 // Author: Shuo Chen (chenshuo at chenshuo dot com)
 
-#include <muduo/net/TcpServer.h>
+#include <src/muduo/net/TcpServer.h>
 
-#include <muduo/base/Logging.h>
-#include <muduo/net/Acceptor.h>
-#include <muduo/net/EventLoop.h>
-#include <muduo/net/EventLoopThreadPool.h>
-#include <muduo/net/SocketsOps.h>
+#include <src/muduo/base/Logging.h>
+#include <src/muduo/net/Acceptor.h>
+#include <src/muduo/net/EventLoop.h>
+#include <src/muduo/net/EventLoopThreadPool.h>
+#include <src/muduo/net/SocketsOps.h>
 
 #include <stdio.h>  // snprintf
 
